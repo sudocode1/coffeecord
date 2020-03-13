@@ -19,6 +19,11 @@ Client.connect()
 
 ## Motivation
 
+My motivation to continue/recreate this is because I work with CoffeeScript and have always wanted a Discord Libary for CoffeeScript. 
+<br />
+The developer ditched this project just over a year ago and I felt like doing a revival for mine, and other peoples, convenience.
+
+
 ## Installation
 
 npm install coffeecord
